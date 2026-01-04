@@ -1,0 +1,7 @@
+{
+  "name": "SteelBase Furniture Malawi",
+  "description": "Premium industrial steel furniture manufacturing company based in Malawi, combining durability with local craftsmanship.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
